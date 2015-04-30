@@ -18,3 +18,5 @@ This code is only for demonstration purpose.
 ## Experimental Result
 
 The raw experimental results are in final.xlsx
+
+If you have any question, please email me bowu365@gmail.com
