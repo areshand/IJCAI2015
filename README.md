@@ -2,7 +2,7 @@
 This repository contains the data, code and experimental results for the IJCAI2015 paper "An Iterative Approach to Synthesize Data Transformation Programs" (IPBE)
 
 ## Data
-It contains two parts: (1) 30 scenarios of museum dataset (2) 10 scenarios of synthetic scenarios. For synthetic scenarios, we use special characters to indicate column separator. 
+It contains two parts: (1) 30 scenarios of museum dataset (2) 10 scenarios of synthetic scenarios. For synthetic scenarios, we use special characters for column separator. 
 
 
 ## Code
@@ -15,4 +15,5 @@ If you want to experiment with our code, you can wrap your own logging code arou
 This code is only for demonstration purpose. It uses the same license as XXXX
 
 ## Experimental Result
-The raw experimental results for the paper
+
+The raw experimental results are in final.xlsx
