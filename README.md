@@ -6,14 +6,17 @@ It contains two parts: (1) 30 scenarios of museum dataset (2) 10 scenarios of sy
 
 
 ## Code
-You can import the it as a  Maven project.
-A sample for calling the code is XXXX.
-It shows how to call (1) our implementation of Gulwani's approach and (2) IPBE.
+Please unzip the IPBE.zip file.
+You can import the eclipse project as a Maven project.
+A sample for calling the code is edu.isi.karma.cleaning.Research.Sample.java .
+It shows how to call IPBE and our implementation of Gulwani's approach.
 
-If you want to experiment with our code, you can wrap your own logging code around our APIs.
+If you want to experiment with our code, you can wrap your own logging code around our methods.
 
-This code is only for demonstration purpose. It uses the same license as XXXX
+This code is only for demonstration purpose. 
 
 ## Experimental Result
 
 The raw experimental results are in final.xlsx
+
+If you have any question, please email me bowu365@gmail.com
